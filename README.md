@@ -30,7 +30,7 @@ print(f"Fatorial de 5: {fatorial(5)}")
 
 ---
 
-2. Depurar Código
+## 2. Depurar Código
 
 Prompt:
 
